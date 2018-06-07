@@ -1,0 +1,17 @@
+{
+  "name": "luisferreira-puppet_forge_test",
+  "version": "0.0.1",
+  "author": "Luis Ferreira",
+  "summary": "LifeCicle Test",
+  "license": "Apache-2.0",
+  "source": "https://github.com/renner-luis-ferreira/puppet_forge_test",
+  "project_page": "https://github.com/renner-luis-ferreira/puppet_forge_test",
+  "issues_url": "https://github.com/renner-luis-ferreira/puppet_forge_test/issues",
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_requirement": ">= 1.0.0"
+    }
+  ],
+  "data_provider": null
+}
